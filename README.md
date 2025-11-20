@@ -27,10 +27,10 @@
 ---
 
 ## 📂 Featured Projects
-- **[GPA Calculator (Basic)](https://github.com/ishaku14/gpa-calculator-basic)**  
+- **[GPA Calculator (Basic)][(https://ishaku14.github.io/gpa-calculator-basic/)**  
   Simple GPA calculator built with vanilla JS.  
 
-- **[GPA + CGPA Calculator](https://github.com/ishaku14/gpa-cgpa-calculator)**  
+- **[GPA + CGPA Calculator](https://ishaku14.github.io/gpa-cgpa-calculator/)**  
   Multi-semester support + improved UI for student GPA management.  
 
 *(More projects coming soon!)*
